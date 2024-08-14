@@ -1,0 +1,10 @@
+.page-footer{
+    background-color: rgba(20, 182, 55, 0.3);
+    background-blend-mode: multiply;
+    background-image: url(../assets/1337139.png);
+    color: rgb(0, 0, 0);
+    height:50px;
+}
+ul{
+gap: 30px;
+}
