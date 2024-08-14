@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c707e885.css",
+    "main.js": "/static/js/main.033cd435.js",
+    "static/js/453.eacd2753.chunk.js": "/static/js/453.eacd2753.chunk.js",
+    "static/media/1337139.png": "/static/media/1337139.b6f443d090c1d74fd152.png",
+    "static/media/backiee-212913-landscape.jpg": "/static/media/backiee-212913-landscape.5e98827b01cc11a44c93.jpg",
+    "static/media/realme.png": "/static/media/realme.b99d2c91ed9e9e34f7d0.png",
+    "static/media/redmi.png": "/static/media/redmi.b110ee71824c8df9f839.png",
+    "static/media/iqooz9.png": "/static/media/iqooz9.9898937ed4b7d25c1010.png",
+    "static/media/samsung.png": "/static/media/samsung.e55cc31033d6c07a4f7f.png",
+    "static/media/motorola.png": "/static/media/motorola.c272a4e012bf2ddaf763.png",
+    "static/media/iphone.png": "/static/media/iphone.8eaec3bd4033cf7d4bd8.png",
+    "index.html": "/index.html",
+    "main.c707e885.css.map": "/static/css/main.c707e885.css.map",
+    "main.033cd435.js.map": "/static/js/main.033cd435.js.map",
+    "453.eacd2753.chunk.js.map": "/static/js/453.eacd2753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c707e885.css",
+    "static/js/main.033cd435.js"
+  ]
+}
